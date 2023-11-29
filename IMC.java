@@ -12,7 +12,7 @@ public class IMC {
 		
 		JLabel titulo = new JLabel("Calculadora de IMC");
 		JLabel altura = new JLabel("Digite sua altura: ");
-		JLabel peso = new JLabel("Digite sua peso: ");
+		JLabel peso = new JLabel("Digite seu peso: ");
 		
 		JTextField height = new JTextField();
 		JTextField weight = new JTextField();
